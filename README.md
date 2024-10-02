@@ -1,1 +1,1 @@
-# Chemical-Graph
+This project focuses on using Large Language Models (LLMs) and graph-based techniques, such as Graph Neural Networks (GNNs), for chemical prediction tasks. It aims to predict molecular properties, reactivity, and other chemical attributes by leveraging the power of AI-driven models that understand molecular structures .
